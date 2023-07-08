@@ -1,0 +1,24 @@
+{
+    "firstName": "Shiva",
+    "lastName": "Purushothamacharya",
+    "address": {
+        "city": "Bengauluru",
+        "state": "Karnataka",
+        "country": "India"
+    },
+    "contact": {
+        "email": "shiva.prd350@gmail.com",
+        "phone": "+91 8951544713"
+    },
+    "social": {
+        "twitter": "",
+        "linkedin": ""
+    },
+    "profile": {
+        "title": "Software Engineer",
+        "typedTitles": [
+            "Software Engineer, Automotive Enthusiast"
+        ],
+        "brief": ""
+    }
+}
