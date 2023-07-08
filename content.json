@@ -1,26 +1,26 @@
 {
     "info": {
-        "prop-username": "Shiva Purushothamacharya"
+        "username": "Shiva Purushothamacharya"
     },
     "address": {
-        "prop-city": "Bengauluru",
-        "prop-state": "Karnataka",
-        "prop-country": "India"
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
     },
     "contact": {
-        "prop-email": "shiva.prd350@gmail.com",
-        "prop-phone": "+91 8951544713"
+        "email": "shiva.prd350@gmail.com",
+        "phone": "+91 8951544713"
     },
     "social": {
-        "prop-twitter": "",
-        "prop-linkedin": ""
+        "twitter": "",
+        "linkedin": ""
     },
     "profile": {
-        "prop-title": "Software Engineer",
-        "prop-titles": [
+        "title": "Software Engineer",
+        "titles": [
             "Software Engineer"
         ],
-        "prop-degree": "Bachelor of Engineering",
-        "prop-freelance": "Available"
+        "degree": "Bachelor of Engineering",
+        "freelance": "Available"
     }
 }
