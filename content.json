@@ -1,6 +1,6 @@
 {
     "info": {
-        "username": "Shiva Purushothamacharya"
+        "fullname": "Shiva Purushothamacharya"
     },
     "address": {
         "city": "Bengaluru",
@@ -12,15 +12,185 @@
         "phone": "+91 8951544713"
     },
     "social": {
-        "twitter": "",
-        "linkedin": ""
+        "facebook": "https://www.facebook.com/profile.php?id=100003933406266",
+        "twitter": "https://twitter.com/_shiva_acharya",
+        "linkedin": "https://www.linkedin.com/in/shiva-purushothamacharya"
+    },
+    "about": {
+        "intro": "I am a passionate software engineer who craves to build things that solve real-world problems and ease human life using knowledge and the power of software. Having good knowledge in all stages of the software development lifecycle and proficiency in building API services and web applications with quality and performance, I have continually succeeded in developing and delivering quality software products throughout my career. In addition to software development, I also have strong knowledge and experience working on cloud platforms deploying software onto the cloud, and consuming readily available cloud solutions to scale the software products."
     },
     "profile": {
-        "title": "Software Engineer",
-        "titles": [
-            "Software Engineer, Automotive Enthusiast"
-        ],
+        "title": "Senior Software Engineer",
+        "heading": "Highly motivated and detail-oriented Software Engineer with a passion for problem-solving and a strong foundation in software development. Equipped with a solid understanding of programming principles and methodologies, I am dedicated to delivering efficient and high-quality software solutions. With a keen eye for innovation and a collaborative mindset, I thrive in dynamic and fast-paced environments. Seeking a challenging position as a Software Engineer to leverage my technical expertise and contribute to the success of cutting-edge projects.",
+        "skillset": "",
+        "profileLinkName": "linkedin.com/in/shiva-purushothamacharya",
+        "profileLink": "https://www.linkedin.com/in/shiva-purushothamacharya",
         "degree": "Bachelor of Engineering",
-        "freelance": "Available"
+        "specialization": "Computer Science",
+        "profession": "Software Engineer",
+        "openToWork": "Yes",
+        "summary": "Results-driven software engineer with 7.5 years of expertise in software development, adept in delivering innovative solutions while embracing Agile methodologies. I have collaborated with diverse teams of varying sizes, consistently exceeding expectations and delivering high-quality software products. Known for my ability to adapt quickly to changing project requirements and prioritize tasks effectively, I am committed to driving continuous improvement and delivering exceptional results.",
+        "techstack": {
+            "intro": "Throughout my career, I have honed my skills in various technologies, ensuring to stay at the forefront of the ever-evolving tech landscape, From front-end development using modern JavaScript frameworks to back-end proficiency in scalable databases and server-side languages. The following are the major technologies in which I have procured knowledge and expertise. ",
+            "list": [
+                {
+                    "name": "HTML",
+                    "logo": "html5.png"
+                },
+                {
+                    "name": "CSS",
+                    "logo": "css.png"
+                },
+                {
+                    "name": "SASS",
+                    "logo": "sass.png"
+                },
+                {
+                    "name": "JAVASCRIPT",
+                    "logo": "javascript.png"
+                },
+                {
+                    "name": "TYPESCRIPT",
+                    "logo": "typescript.png"
+                },
+                {
+                    "name": "ANGULAR",
+                    "logo": "angular.png"
+                },
+                {
+                    "name": "REACT",
+                    "logo": "react.png"
+                },
+                {
+                    "name": "NODE.JS",
+                    "logo": "node.png"
+                },
+                {
+                    "name": "EXPRESS.JS",
+                    "logo": "express.png"
+                },
+                {
+                    "name": "MOLECULER",
+                    "logo": "moleculer.png"
+                },
+                {
+                    "name": "JEST",
+                    "logo": "jest.png"
+                },
+                {
+                    "name": "POSTGRE SQL",
+                    "logo": "postgre.png"
+                },
+                {
+                    "name": "MONGODB",
+                    "logo": "mongo.png"
+                },
+                {
+                    "name": "GITHUB",
+                    "logo": "github.png"
+                },
+                {
+                    "name": "REDIS",
+                    "logo": "redis.png"
+                },
+                {
+                    "name": "RABBIT MQ",
+                    "logo": "rabbitmq.png"
+                },
+                {
+                    "name": "UBUNTU",
+                    "logo": "ubuntu.png"
+                },
+                {
+                    "name": "DOCKER",
+                    "logo": "docker.png"
+                },
+                {
+                    "name": "KUBERNETES",
+                    "logo": "kubernetes.png"
+                },
+                {
+                    "name": "AWS",
+                    "logo": "aws.png"
+                }
+            ]
+        },
+        "education": [
+            {
+                "institute": "Cambridge Institute of Technology, Bengaluru",
+                "university": "Visveswaraiha Technological University",
+                "course": "Bachelor of Engineering in Computer Science",
+                "grade": "64.66%",
+                "startDate": "2011",
+                "endDate": "2015"
+            },
+            {
+                "institute": "Jyothi Composite PU College, Bengaluru",
+                "university": "Karanataka Pre University",
+                "course": "Pre University",
+                "grade": "62.66%",
+                "startDate": "2009",
+                "endDate": "2011"
+            },
+            {
+                "institute": "Lakshmi Memorial English School, Bengaluru",
+                "university": "Karanataka State Board",
+                "course": "SSLC",
+                "grade": "56.32%",
+                "startDate": "2008",
+                "endDate": "2009"
+            }
+        ],
+        "experience": [
+            {
+                "org": "Epsilon",
+                "location": "Bengaluru, Karnataka, India",
+                "position": "Senior Software Engineer",
+                "startDate": "February 2020",
+                "endDate": "Present",
+                "summary": [
+                    "Contributed to high-level and low-level system designs for major projects by analyzing client requirements and business use cases. Collaborated with the team to produce the best design that meets the client's requirements while considering the available infrastructure to support product development.",
+                    "Developed UI applications with AOT and module lazy loading using Angular UI framework and Developed backend API services using Node.js, Express, and Moleculer.js microservices framework.",
+                    "Instrcuted the team to migrate application configuration into the cloud for easy maintenance and to enable the applications for CICD integrations and completed the migration for all the backend services.",
+                    "Spearheaded the CICD deployment in the Team using Azure pipelines to reduce the deployment efforts and automate deployments. Accomplished the CICD integrations for all the projects owned.",
+                    "Enabled TDD using the JEST framework, reduced post-deployment errors, and helped the team to focus on building complex business logic.",
+                    "Introduced Azure artifact-feed private repository to maintain custom libraries in the cloud and enabled npm-like install and upgrade steps for the custom libraries."
+                ]
+            },
+            {
+                "org": "Comorin Consultin Services",
+                "location": "Bengaluru, Karnataka, India",
+                "position": "Software Engineer",
+                "startDate": "April 2018",
+                "endDate": "February 2020",
+                "summary": [
+                    "Owned a development of an E-commerce project by Leading and assisting the team of 6 members technically. Developed the project using a microservice architecture with best-in-class quality and performance, successfully completed the project, and succeded in leading the team by completing the project within the targeted deadline.",                    
+                    "Enabled the team to get started on microservices development using Node.js and Express.js and MongoDB following the standards of microservices and REST API development.",
+                    "Explored containerization of services using Docker and guided the team in integration and in building Docker images and running them as service containers.",
+                    "Worked on AWS cloud for the deployment of applications using EC2 instance and also created centralized logging to capture logs from microservices using ELK stack i.e., Elastic Search, Logstash, and Kibana."
+                ]
+            },
+            {
+                "org": "Hexwhale Technologies",
+                "location": "Bengaluru, Karnataka, India",
+                "position": "Software Developer",
+                "startDate": "December 2015",
+                "endDate": "March 2018",
+                "summary": [
+                    "Created responsive websites using HTML, Javascript, and CSS using a media query to support a wide range of devices with functionalities including dynamic data rendering, contact, and subscribe.",
+                    "Created an MVC application for online product shopping with a customer-facing site having functionalities like signup, login, product search, list and detail views, cart and checkout payment, and backend admin portal to manage products and orders, built using Angular.js 1x and PHP Codeigniter and MYSQL database for the backend.",
+                    "Created a restaurant table booking and food ordering SOA application backend using PHP REST APIs and MYSQL database, The App also featured the payment gateway integration for instant payment for online bookings and a map feature using Google location services for customers to find nearby restaurants."
+                ]
+            }
+        ],
+        "skills": [
+            "Requirement Analysis",
+            "System Design",
+            "Workflow Documentation",
+            "Web Development",
+            "Microservices Development",
+            "REST API Development",
+            "Development Operations"
+        ]
     }
 }
