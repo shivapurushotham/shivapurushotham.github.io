@@ -117,28 +117,28 @@
         },
         "education": [
             {
-                "institute": "Cambridge Institute of Technology, Bengaluru",
+                "institute": "Cambridge Institute of Technology",
                 "university": "Visveswaraiha Technological University",
                 "course": "Bachelor of Engineering in Computer Science",
-                "grade": "64.66%",
                 "startDate": "2011",
-                "endDate": "2015"
+                "endDate": "2015",
+                "location": "Bengaluru, Karnataka, India"
             },
             {
-                "institute": "Jyothi Composite PU College, Bengaluru",
+                "institute": "Jyothi Composite PU College",
                 "university": "Karanataka Pre University",
                 "course": "Pre University",
-                "grade": "62.66%",
                 "startDate": "2009",
-                "endDate": "2011"
+                "endDate": "2011",
+                "location": "Bengaluru, Karnataka, India"
             },
             {
-                "institute": "Lakshmi Memorial English School, Bengaluru",
+                "institute": "Lakshmi Memorial English School",
                 "university": "Karanataka State Board",
                 "course": "SSLC",
-                "grade": "56.32%",
                 "startDate": "2008",
-                "endDate": "2009"
+                "endDate": "2009",
+                "location": "Bengaluru, Karnataka, India"
             }
         ],
         "experience": [
@@ -151,7 +151,7 @@
                 "summary": [
                     "Contributed to high-level and low-level system designs for major projects by analyzing client requirements and business use cases. Collaborated with the team to produce the best design that meets the client's requirements while considering the available infrastructure to support product development.",
                     "Developed UI applications with AOT and module lazy loading using Angular UI framework and Developed backend API services using Node.js, Express, and Moleculer.js microservices framework.",
-                    "Instrcuted the team to migrate application configuration into the cloud for easy maintenance and to enable the applications for CICD integrations and completed the migration for all the backend services.",
+                    "Instructed the team to migrate application configuration into the cloud for easy maintenance and to enable the applications for CICD integrations and completed the migration for all the backend services.",
                     "Spearheaded the CICD deployment in the Team using Azure pipelines to reduce the deployment efforts and automate deployments. Accomplished the CICD integrations for all the projects owned.",
                     "Enabled TDD using the JEST framework, reduced post-deployment errors, and helped the team to focus on building complex business logic.",
                     "Introduced Azure artifact-feed private repository to maintain custom libraries in the cloud and enabled npm-like install and upgrade steps for the custom libraries."

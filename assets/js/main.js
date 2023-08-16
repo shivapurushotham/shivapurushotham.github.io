@@ -78,7 +78,7 @@
 										<h5>${education.startDate} - ${education.endDate}</h5> 
 										<p><b>Institute:</b> ${education.institute}</p> 
 										<p><b>University:</b> ${education.university}</p>
-										<p><b>Percentage:</b> ${education.grade}</p>
+										<p><b>Place:</b> ${education.location}</p>
 										<p></p> 
 									</div>`;
 					});
